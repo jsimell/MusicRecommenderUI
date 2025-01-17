@@ -1,5 +1,5 @@
 # Music Recommender UI
-This repository describes the different stages of designing a UI for a music recommender mobile application. These stages progress from context analysis to implementing a fully interactive UI prototype.
+This repository describes the process of designing a UI for a music recommender mobile application.
 
 **The design process consists of six stages:**
 1. Context analysis and defining requirements
