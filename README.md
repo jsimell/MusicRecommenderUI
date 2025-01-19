@@ -3,8 +3,8 @@ This repository describes the process of designing a UI for a music recommender 
 
 **The design process consists of six stages:**
 1. Context analysis and defining requirements
-2. Interaction sketching _(current stage)_
-3. Detailed design with Figma
+2. Interaction sketching
+3. Detailed design with Figma _(current stage)_
 4. Heuristic evaluation
 5. Redesign based on evaluation results
 6. Implementing the final interactive prototype using ProtoPie
