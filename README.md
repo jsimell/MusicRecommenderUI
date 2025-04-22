@@ -9,8 +9,6 @@ This repository describes the process of designing a UI for a music recommender 
 5. Redesign based on evaluation results
 6. Finalize the design ([Link to the final prototype](https://www.figma.com/proto/oyiZesm8i5ul5yB6vLFzN8/MusicRecommender?node-id=300-12600&m=dev&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=300%3A12600))
 
-For some of the stages, there is a separate report file describing the design actions performed in that stage. All the reports can be found in the reports folder.
-
 ## UI Images
 ![Screenshot from 2025-02-23 13-04-29](https://github.com/user-attachments/assets/63620f61-1769-4013-84a9-7c5008fbce8b)
 ![Screenshot from 2025-02-23 13-04-23](https://github.com/user-attachments/assets/a0e701ee-42c5-48e9-bd75-3a031f4854e5)
